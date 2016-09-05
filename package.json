@@ -1,0 +1,28 @@
+{
+  "name": "api1",
+  "version": "1.0.0",
+  "description": "Stockholder app to add all the players for a project. also, this is a poc for apis and swagger.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^4.11.1",
+    "mongojs": "^0.18.1",
+    "swagger": "^0.7.5",
+    "swagger-ui": "^2.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackFoxgamingstudio/Api-s.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelcheng429/meanstacktutorial/issues"
+  },
+  "homepage": "https://github.com/michaelcheng429/meanstacktutorial"
+}
